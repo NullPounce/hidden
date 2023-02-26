@@ -1,10 +1,10 @@
 pycryptodome
 pefile 
 pyyaml
-rsa==4.0
+rsa==4.9
 netaddr
-ecdsa==0.13
-paramiko==2.0.2
+ecdsa==0.18.0
+paramiko==3.0.0
 
 psutil
 netifaces
