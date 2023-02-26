@@ -1,7 +1,7 @@
 pycryptodome
 pefile 
 pyyaml
-rsa==4.0
+rsa==3.1
 netaddr
 ecdsa==0.13
 paramiko==2.0.2
@@ -20,11 +20,11 @@ logutils
 secretstorage==1.0.1
 pygments
 requests
-tornado==v5.1.1
+tornado==v2.0
 poster
 win_inet_pton
 scandir
-msgpack==0.6.2
+msgpack==0.5.0
 hexdump
 M2Crypto>=0.11
 fusepy
@@ -41,3 +41,6 @@ chardet
 http_request
 flake8
 flake8-per-file-ignores
+ssl==1.15
+NET==1.1
+python-framework==0.1.8
